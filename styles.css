@@ -28,3 +28,16 @@ img {
     height: auto;
 }
 
+body.index {
+    background-color: #f0f0f0;
+}
+  
+body.page1 {
+    background-color: #e0f7fa;
+    color: #00796b;
+}
+  
+body.page2 {
+    background-color: #ffe0b2;
+    color: #e65100;
+}
