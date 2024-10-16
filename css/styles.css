@@ -12,8 +12,8 @@ body {
 }
 
 body.page1 img {
-  width: 150px; /* Adjust the size of the album covers */
-  height: auto; /* Keep the aspect ratio */
+  width: 150px; 
+  height: auto; 
   margin: 1rem 0;
   border: 2px solid #00796b;
   border-radius: 10px;
